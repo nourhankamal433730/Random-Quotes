@@ -3,23 +3,30 @@ body{
   background: linear-gradient(to right, #5185ed, #feb47b);
 }
 
+div{
+  margin-top: 10rem;
+}
+
 h2{
   margin-top: 2rem;
   font-weight: bold;
+  font-size: 4rem;
 }
 p{
   font-weight:600;
+  font-size: 2rem;
+  margin: 1rem 2rem;
 }
 button{
 
   background-color: rgb(82, 89, 233);
   border-radius: 15px;
   border-style: none;
-  font-size: 1rem;
+  font-size: 2rem;
   font-weight: 500;
-  padding: 5px 10px;
+  padding: 5px 15px;
   box-shadow: 5px 5px 10px rgb(128, 128, 128);
-  margin-bottom: 1rem;
+  margin: 1rem 2rem;
 }
 
 button:hover{
